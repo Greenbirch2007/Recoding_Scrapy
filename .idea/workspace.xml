@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bb5a0c9-ff4f-4f59-9817-83a63b3aa276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/spiders/IPs_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python34_scrapy14/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python34_scrapy14/tutorial/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/spiders/IPs_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/spiders/IPs_spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,86 +20,41 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
+          <entry key="sql" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
+          <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="991" />
+          <entry key="py" value="2336" />
+          <entry key="sql" value="196" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="991" />
+          <entry key="Python" value="2336" />
+          <entry key="SQL" value="196" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="95" selection-start-line="95" selection-end-line="95" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="14" />
-              <folding>
-                <marker date="1534994553880" expanded="true" signature="196:277" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/spiders/IPs_spider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="31" column="57" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="57" />
-              <folding>
-                <element signature="e#26#39#0" expanded="true" />
-                <marker date="1534995243607" expanded="true" signature="106:111" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/middlewares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-833" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,9 +71,11 @@
       <list>
         <option value="$PROJECT_DIR$/tabledata_test.py" />
         <option value="$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/items.py" />
-        <option value="$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/spiders/IPs_spider.py" />
+        <option value="$PROJECT_DIR$/python34_scrapy14/IP_SP/create_table.sql" />
         <option value="$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/settings.py" />
+        <option value="$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/spiders/IPs_spider.py" />
         <option value="$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/pipelines.py" />
+        <option value="$PROJECT_DIR$/python34_scrapy14/quotes.py" />
       </list>
     </option>
   </component>
@@ -160,6 +122,27 @@
               <item name="IP_SP" type="462c0819:PsiDirectoryNode" />
               <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Recoding_Scrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Scrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="python34_scrapy14" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Scrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Scrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="python34_scrapy14" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Scrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Scrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="python34_scrapy14" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -169,7 +152,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,15 +181,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="714" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3293718" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -214,6 +192,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.7181664" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -227,54 +209,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xici_sprapy.txt">
+    <entry file="file://$PROJECT_DIR$/xici_sprapy.txt" />
+    <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/middlewares.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/middlewares.py">
+    <entry file="file://$USER_HOME$/Python_big_34/lib/python3.4/site-packages/twisted/internet/defer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-833" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/spiders/IPs_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="31" column="57" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="57" />
-          <folding>
-            <element signature="e#26#39#0" expanded="true" />
-            <marker date="1534995243607" expanded="true" signature="106:111" ph="..." />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="1273" selection-start-line="1273" selection-end-line="1273" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <marker date="1534994553880" expanded="true" signature="196:277" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="306">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/create_table.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="95" column="11" selection-start-line="95" selection-end-line="95" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python34_scrapy14/IP_SP/IP_SP/spiders/IPs_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python34_scrapy14/quotes.py" />
   </component>
 </project>

@@ -14,7 +14,7 @@ class xicispider(scrapy.Spider):
 
     def start_requests(self):
         res = []
-        for i in range(1.2):
+        for i in range(1,2):
             url = 'http://www.xicidaili.com/nn/%d' % i
             req = scrapy.Request(url)
             res.append(req)
@@ -25,9 +25,14 @@ class xicispider(scrapy.Spider):
         trs = table.xpath('//tr')[1:] #去掉标题行
         items = []
         for tr in trs:
+
             pre_item = IpSpItem()   #使用到了存储的自定义字段
             pre_item['ip'] = tr.xpath('td[2]/text()').extract()[0]
+
             pre_item['port'] = tr.xpath('td[3]/text()').extract()[0]
+
             pre_item['type']=tr.xpath('td[6]/text()').extract()[0]
-            items.append(pre_item) #将自定义的字段作为一个整体塞入一个空列表中
+            items.append(pre_item)
+
+ #将自定义的字段作为一个整体塞入一个空列表中
         return items
