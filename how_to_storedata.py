@@ -130,3 +130,5 @@ class MongoPipeline(object):
         self.db[self.collection_name].insert_one(dict(item))
         return item
         # 切记 一定要返回item进行后续的pipelines 数据处理
+
+

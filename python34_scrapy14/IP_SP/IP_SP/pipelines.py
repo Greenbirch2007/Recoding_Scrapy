@@ -11,7 +11,7 @@ class IpSpPipeline(object):
 
     def process_item(self, item,spider):
 
-        connection = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='123456', db='web_monitor',
+        connection = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='123456', db='scrapy_test',
                                      charset='utf8mb4', cursorclass=pymysql.cursors.DictCursor)
         cursor = connection.cursor()
         sql = 'insert into proxy (ip,port,type) values (%s,%s,%s)'

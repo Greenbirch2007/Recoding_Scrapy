@@ -96,5 +96,5 @@ ITEM_PIPELINES = {
 MYSQL_HOSTS = '127.0.0.1'
 MYSQL_USER = 'root'
 MYSQL_PASSWORD = '123456'
-MYSQL_DB = 'web_monitor'
+MYSQL_DB = 'scrapy_test'
 CHARSET = 'utf8'

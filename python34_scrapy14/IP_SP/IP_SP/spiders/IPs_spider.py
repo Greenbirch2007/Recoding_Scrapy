@@ -3,6 +3,7 @@
 
 
 import scrapy
+from scrapy import Request
 from IP_SP.items import IpSpItem
 
 class xicispider(scrapy.Spider):
@@ -11,28 +12,19 @@ class xicispider(scrapy.Spider):
 
     start_urls = ('http://www.xicidaili.com/')
 
-
     def start_requests(self):
-        res = []
-        for i in range(1,2):
-            url = 'http://www.xicidaili.com/nn/%d' % i
-            req = scrapy.Request(url)
-            res.append(req)
-        return res
-    #解析是要把css和xpath两种方法都些出来！
+
+        for i in range(1,10):
+            yield Request('http://www.xicidaili.com/nn/%s'%i)
+
     def parse(self, response):
-        table = response.xpath('//table[@id="ip_list"]')[0]
-        trs = table.xpath('//tr')[1:] #去掉标题行
-        items = []
-        for tr in trs:
+        for sel in response.xpath('//table[@id="ip_list"]/tr[position()>1]'):
+            ip = sel.css('td:nth-child(2)::text').extract_first()
+            port = sel.css('td:nth-child(4)::text').extract_first()
+            type = sel.css('td:nth-child(6)::text').extract_first().lower()
 
-            pre_item = IpSpItem()   #使用到了存储的自定义字段
-            pre_item['ip'] = tr.xpath('td[2]/text()').extract()[0]
+            #
+sdf
 
-            pre_item['port'] = tr.xpath('td[3]/text()').extract()[0]
-
-            pre_item['type']=tr.xpath('td[6]/text()').extract()[0]
-            items.append(pre_item)
-
- #将自定义的字段作为一个整体塞入一个空列表中
-        return items
+ 
+dsfa  
