@@ -18,10 +18,20 @@ class DdSpider(scrapy.Spider):
     def start_requests(self):
         return [Request('http://search.dangdang.com/?key=python&act=input&show=big&page_index=1#J_tab',headers=self.ua,callback=self.parse)]
     def parse(self, response):
-        item=DangdangItem()
+        item=DangdangItem() #实例化
         item['title']=response.xpath("//a[@class='pic']/@title").extract()
         item['link'] = response.xpath("//a[@class='pic']/@href").extract()
         item['comment'] = response.xpath("//a[@dd_name='单品评论']/text()").extract()
         yield item
         for i in range(2,33):
             url='http://search.dangdang.com/?key=python&act=input&show=big&page_index='+str(i)+'#J_tab'
+
+
+
+#
+# create table books(
+#     id int not null primary key auto_increment,
+# title varchar(255),
+# link varchar(255),
+# comment varchar(255)
+# ) engine =Innodb charset=utf8;
