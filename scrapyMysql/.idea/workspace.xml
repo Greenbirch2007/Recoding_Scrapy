@@ -2,120 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7370c0e8-43d2-49a2-910d-3cff36b4552a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../InputMongodb/.idea/mongoSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapyMysql/MySQLPipeline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/Recoding_Scrapy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/Recoding_Scrapy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.~功能实现为主导改写资料代码块（scrapy).xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../.~功能实现为主导改写资料代码块（scrapy).xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../how_to_storedata.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../how_to_storedata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/.idea/IP_SP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/.idea/IP_SP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/spiders/IPs_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/spiders/IPs_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/IP_SP/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/create_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/create_table.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/IP_SP/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/quotes/quotes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/quotes/quotes/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/quotes/quotes/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/quotes/quotes/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/quotes/quotes/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/quotes/quotes/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/quotes/quotes/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/quotes/quotes/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/quotes/quotes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/quotes/quotes/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/quotes/quotes/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/quotes/quotes/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/quotes/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/quotes/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/.idea/scrapydemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/.idea/scrapydemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/db/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/db/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/db/dbhelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/db/dbhelper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/spiders/imooc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/scrapydemo/scrapydemo/spiders/imooc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/quotes-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/quotes-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/quotes-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/quotes-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/spiders/quotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python34_scrapy14/tutorial/tutorial/spiders/quotes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/.idea/dangdang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/.idea/dangdang.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/spiders/dd.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/dangdang/spiders/dd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/dangdang/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/.idea/myfendos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/.idea/myfendos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/spiders/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/myfendos/spiders/spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/myfendos/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/.idea/scrapytest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/.idea/scrapytest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/spiders/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/scrapytest/scrapytest/spiders/spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/.idea/tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/.idea/tutorial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/spiders/quotes_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python35_scrapy14/tutorial/tutorial/spiders/quotes_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../tabledata_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../tabledata_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../功能实现为主导改写资料代码块（scrapy).xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../功能实现为主导改写资料代码块（scrapy).xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../同步与异步插入数据库/exa.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../同步与异步插入数据库/exa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,26 +42,23 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1810946701">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scrapyMysql/items.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
               <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scrapyMysql/spiders/inputMysql.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -189,9 +73,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <marker date="1535247982886" expanded="true" signature="106:115" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -215,7 +96,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -273,7 +154,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Aoisolas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ImageSpider" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -306,7 +187,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="850" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22740315" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22724065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -319,7 +200,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.23955432" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23849373" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -337,6 +218,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scrapyMysql/spiders/inputMysql.py" />
     <entry file="file://$PROJECT_DIR$/scrapyMysql/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -351,9 +233,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <marker date="1535247982886" expanded="true" signature="106:115" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -361,16 +240,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1273">
           <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapyMysql/spiders/inputMysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
