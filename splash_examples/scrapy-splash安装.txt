@@ -1,0 +1,57 @@
+
+
+注意爬取时一定要把容器一直开着！
+
+只能爬到第二也！ 动态渲染的翻页又有了问题！只能爬到第二页
+
+
+
+
+
+1.pip3 install scrapy-splash
+
+
+2.sudo apt-get  install docker
+
+
+安装完docker后，可以输入命令‘docker -v’来验证docker是否安装成功。
+
+  3. 开启docker服务，拉取splash镜像（pull the image）：
+
+sudo service docker start
+sudo docker pull scrapinghub/splash
+
+
+ 4. 开启容器（start the container）：
+
+sudo docker run -p 8050:8050 scrapinghub/splash
+
+我们将利用scrapy-splash模拟以上操作并获取手机号码信息。
+
+  1. 创建scrapy项目phone 
+  2. 配置settings.py文件，配置的内容如下：
+
+ROBOTSTXT_OBEY = False
+SPLASH_URL ='http://127.0.0.1:8050/'    #Splash服务器地址
+
+#开启Splash的两个下载中间件病调整 HttpCompressionMiddleware 的次序
+DOWNLOADER_MIDDLEWARES = {
+    'scrapy_splash.SplashCookiesMiddleware': 723,
+    'scrapy_splash.SplashMiddleware': 725,
+    'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810
+}
+
+#设置去重过滤器
+DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
+
+#用来支持cache_args（可选）
+SPIDER_MIDDLEWARES = {
+    'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
+}
+
+
+HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'
+
+
+ 9、运行splash服务
+　　　　　　在抓取之前首先要启动splash服务，命令：docker run -p 8050:8050 scrapinghub/splash，
