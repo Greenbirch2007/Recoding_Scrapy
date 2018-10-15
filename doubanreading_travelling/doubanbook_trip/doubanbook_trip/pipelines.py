@@ -50,7 +50,7 @@ class MySQLAsyncPipelne:
         return item
 
     def insert_db(self,text,item):
-        values = (item['title'],item['co_desc'],item['star'],item['comment'],item['intro'])
+        values = (item['title'],item['co_desc'],item['star'],item['comment'],item['intro'],item['book_link'])
 
-        sql = 'insert into DBbook_trip(title,co_desc,star,comment,intro) values(%s,%s,%s,%s,%s)'
+        sql = 'insert into DBbook_trip(title,co_desc,star,comment,intro,book_link) values(%s,%s,%s,%s,%s,%s)'
         text.execute(sql, values)  # 替代了游标

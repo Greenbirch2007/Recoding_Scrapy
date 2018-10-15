@@ -15,6 +15,8 @@ class DoubanBookTripSpider(scrapy.Spider):
             book_item = DoubanbookTripItem()  #整体实例化 注意实例化的位置是在单个模块内
 
             book_item['title'] = sel.xpath('./h2/a/@title').extract_first()
+            book_item['book_link'] = sel.xpath('./h2/a/@href').extract_first()
+
             all_descs = sel.xpath("./div[@class='pub']/text()").extract() #为了便于遍历，取全部的内容
             for descs in all_descs:
                 co_desc = "".join(descs.split())

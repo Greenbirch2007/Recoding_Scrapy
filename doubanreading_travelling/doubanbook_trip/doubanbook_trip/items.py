@@ -14,9 +14,18 @@ class DoubanbookTripItem(scrapy.Item):
     star = scrapy.Field()
     comment = scrapy.Field()
     intro = scrapy.Field()
+    book_link = scrapy.Field()
 
 
-# create table DBbook_trip(id int not null primary key auto_increment,title varchar(20),co_desc varchar(50),star char(10),comment varchar(12),intro varchar(255)) engine=InnoDB  charset=utf8;
+# create table DBbook_trip
+# (id int not null primary key auto_increment,
+# title varchar(20),
+# co_desc varchar(50),
+#         star char(10),
+#              comment varchar(12),
+#                      intro varchar(255),
+# book_link varchar(50)
+# ) engine=InnoDB  charset=utf8;
 
 
 #  建表时desc 关键字慎用！
